@@ -1,5 +1,5 @@
 # Fantasy Tourney
-> CS-162 (Intro to CS II)  
+> CS-162 (Intro to CS II) Program  
 
 A tournament-style game of combat between fantasy characters, written in C++
 
