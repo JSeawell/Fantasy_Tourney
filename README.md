@@ -10,6 +10,6 @@ A tournament-style game of combat between fantasy characters, written in C++
 > 4. Type `1` and press `Enter` to play
 > 5. Follow the set-up instructions, and begin
 
-## What I learned:
+## Tech and/or concepts learned/used:
 > this
 > that
