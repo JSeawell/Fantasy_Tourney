@@ -11,5 +11,14 @@ A tournament-style game of combat between fantasy characters, written in C++
 > 5. Follow the set-up instructions, and begin
 
 ## Tech and/or concepts learned/used:
-> this
-> that
+> - C++
+> - OOP (object-oriented programming)
+> - Polymorphism
+> - Inheritance
+> - Recursion
+> - Abstract classes
+> - Linked lists (one-way/circular)
+> - ADT (abstract data type(s))
+> - Interface vs. implementation
+> - Stacks
+> - Abstraction
